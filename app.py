@@ -11,7 +11,7 @@ st.markdown("""
             text-align: center;
             font-size: 36px !important;
             font-weight: bold;
-            color: #ffffff;
+            color: #3f2478;
             text-shadow: 0px 0px 10px #00f7ff, 0px 0px 20px #00f7ff;
         }
         .stChatMessage {
@@ -22,7 +22,7 @@ st.markdown("""
             font-size: 22px !important;
             font-weight: bold;
             text-align: center;
-            color: #00f7ff;
+            color: #3f2478;
             text-shadow: 0px 0px 5px #00f7ff;
         }
         .stButton button {
